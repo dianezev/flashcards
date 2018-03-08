@@ -19,7 +19,7 @@ The purpose of this project was to learn MEAN full stack web development. This p
 	* Express
 
 
-*Sorry, this link is not working as of 3/7/2018...we are working to resolve it...* This app is deployed to google cloud App Engine at https://calcium-doodad-185815.appspot.com 
-The mongo database is hosted on mlab
+This app is deployed to google cloud App Engine at https://calcium-doodad-185815.appspot.com 
+The mongo database is hosted on mlab. To demo, please log in with username _test@live.com_ and use the password _testing123_.
 
 Questions? Reach out to lisacope@msn.com or dianezev@comcast.net
