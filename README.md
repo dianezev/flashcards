@@ -1,5 +1,9 @@
 # Awesome Flashcards
 
+## Demo Instructions: ##
+Goto **https://calcium-doodad-185815.appspot.com** 
+and log in with username **_test@live.com_** and the password **_Testing123_**.
+
 ## A build to learn project built by ##
 
 ## Diane Zevenbergen (@dianezev) & Lisa Copeland (@lisacopeland)
@@ -20,6 +24,6 @@ The purpose of this project was to learn MEAN full stack web development. This p
 
 
 This app is deployed to google cloud App Engine at https://calcium-doodad-185815.appspot.com 
-The mongo database is hosted on mlab. To demo, please log in with username _test@live.com_ and use the password _testing123_.
+The mongo database is hosted on mlab. To demo, please log in with username _test@live.com_ and use the password _Testing123_.
 
 Questions? Reach out to lisacope@msn.com or dianezev@comcast.net
