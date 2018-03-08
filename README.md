@@ -1,4 +1,4 @@
-# Awesome Flashcards
+# Ultimate Flashcards
 
 ## Demo Instructions: ##
 Goto **https://calcium-doodad-185815.appspot.com** 
